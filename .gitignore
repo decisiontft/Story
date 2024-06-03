@@ -1,5 +1,7 @@
 chapter_to_ignore.txt
 secrets.txt
+node_modules/
+
 
 *.pdf
 
